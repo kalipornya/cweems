@@ -1,3 +1,3 @@
 class Contact < ApplicationRecord
-    validates :raw_phone_number
+    validates :raw_phone_number,
 end
